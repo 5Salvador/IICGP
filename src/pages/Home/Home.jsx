@@ -152,13 +152,20 @@ const Home = () => {
             </div>
           </div>
           {/*Card dos cultos */}
-          <div className="w-96 flex flex-col space-y-4 border  rounded-2xl p-4 md:p-6 bg-[#f7f7f7] shadow-lg">
+          <motion.div
+            animate={{ opacity: 0, x: 100 }}
+            whileInView={{ opacity: 1, x: 0 }}
+            transition={{ type: "spring", stiffness: 100, damping: 20 }}
+            className="w-96 flex flex-col space-y-4 border  rounded-2xl p-4 md:p-6 bg-[#f7f7f7] shadow-lg"
+          >
             <div className="w-full flex flex-col space-y-2">
               <div className="flex flex-row gap-2">
                 <div className="flex items-center">
                   <FaCalendarAlt className="text-yellow-600 text-3xl" />
                 </div>
-                <p className="font-bold text-3xl text-yellow-600">Agenda Semanal</p>
+                <p className="font-bold text-3xl text-yellow-600">
+                  Agenda Semanal
+                </p>
               </div>
               <div className="flex flex-col">
                 <div className="font-bold text-lg">
@@ -210,7 +217,7 @@ const Home = () => {
             </div>
 
             {/* Card with information  */}
-          </div>
+          </motion.div>
         </div>
       </div>
       <Events />
