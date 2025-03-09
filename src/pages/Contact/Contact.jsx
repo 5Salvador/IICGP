@@ -37,7 +37,7 @@ const Contact = () => {
           </div>
           <p className='text-gray-600 text-2xl md:text-2xl font-bold'>Escreva aqui e sinta-se a vontade</p>
           <div className="flex flex-col space-y-2 text-lg text-black">
-            <p>Se gostarias de efectuar Pedido de Oração, podes acessar <a href="" className="text-red-700 underline">Pedido de Oração</a> Prometemos que o seu pedido será tratado de forma séria e confidencial e que a nossa equipa irá rezar com confiança e expectativa para que a sua necessidade seja atendida de acordo com a Palavra de Godilitis.</p>
+            <p>Se gostarias de efectuar Pedido de Oração, podes acessar <a href="/pedido-de-oracao" className="text-red-700 underline">Pedido de Oração</a> Prometemos que o seu pedido será tratado de forma séria e confidencial e que a nossa equipa irá rezar com confiança e expectativa para que a sua necessidade seja atendida de acordo com a Palavra de Godilitis.</p>
 
           </div>
         </div>

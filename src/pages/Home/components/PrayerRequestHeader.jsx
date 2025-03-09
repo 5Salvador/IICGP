@@ -9,7 +9,7 @@ const PrayerRequestHeader = () => {
         <p className='text-md md:text-xl text-center font-raleway'>Sabemos que você tem muito em mente. Lembre-se, Deus está sempre aqui para você! O que quer que esteja te preocupando estamos aqui para orar consigo!</p>
 
         <div className='flex flex-col md:flex-row gap-5'>
-          <a href="/prayerRequest">
+          <a href="/pedido-de-oracao">
             <Button text="Pedido de Oração" />
           </a>
           <a href="">
