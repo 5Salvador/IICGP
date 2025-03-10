@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "teachingTitle": "Justiça de Deus",
+    "teachingDescription": "Exploração do conceito da justiça divina, suas implicações e como se manifesta na vida dos fiéis."
+  },
+  {
+    "id": 2,
+    "teachingTitle": "Salvação",
+    "teachingDescription": "Discussão sobre o significado da salvação, o caminho para alcançá-la e seus efeitos transformadores."
+  },
+  {
+    "id": 3,
+    "teachingTitle": "Ministério",
+    "teachingDescription": "Análise dos diferentes tipos de ministério, o chamado para servir e a importância do serviço na comunidade."
+  },
+  {
+    "id": 4,
+    "teachingTitle": "Diferença entre Crente e Descrente",
+    "teachingDescription": "Comparação entre a visão de mundo e os valores de um crente e um descrente, destacando as implicações dessa diferença."
+  },
+  {
+    "id": 5,
+    "teachingTitle": "Fidelidade Financeira",
+    "teachingDescription": "Ensinamentos sobre a importância da fidelidade na administração dos recursos financeiros, incluindo princípios bíblicos sobre o tema."
+  },
+  {
+    "id": 6,
+    "teachingTitle": "Dízimo",
+    "teachingDescription": "Explicação do conceito de dízimo, seu significado e como ele se aplica à vida dos cristãos."
+  },
+  {
+    "id": 7,
+    "teachingTitle": "Igreja",
+    "teachingDescription": "Discussão sobre o papel da igreja na vida dos fiéis, sua importância como comunidade e seus ensinamentos."
+  },
+  {
+    "id": 8,
+    "teachingTitle": "O Evangelho",
+    "teachingDescription": "Apresentação da mensagem do Evangelho, seus principais ensinamentos e como ele transforma vidas."
+  },
+  {
+    "id": 9,
+    "teachingTitle": "Carreira",
+    "teachingDescription": "Reflexões sobre como conciliar a fé com a carreira profissional, buscando um propósito maior no trabalho."
+  },
+  {
+    "id": 10,
+    "teachingTitle": "O Discipulado",
+    "teachingDescription": "Exploração do conceito de discipulado, o chamado para seguir Jesus e o processo de crescimento espiritual."
+  }
+]

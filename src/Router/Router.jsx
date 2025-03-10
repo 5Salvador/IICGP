@@ -4,6 +4,7 @@ import About from "../pages/About/About"
 import Contact from "../pages/Contact/Contact"
 import Eventos from "../pages/Eventos/Eventos"
 import Pedido from "../pages/Pedido/PedidoDeOracao"
+import Ensinos from "../pages/Ensinos/Ensinos"
 
 
 
@@ -28,6 +29,10 @@ const router = createBrowserRouter([
   {
     path: "/pedido-de-oracao",
     element: <Pedido />
+  },
+  {
+    path: "/ensinos",
+    element: <Ensinos />
   }
 
 ])

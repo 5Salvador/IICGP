@@ -25,7 +25,7 @@ const Header = () => {
             <a href="/eventos">Eventos</a>
           </li>
           <li className="p-2 md:p-4 text-black border-opacity-0 hover:border-opacity-100 hover:text-yellow-400 duration-200 cursor-pointer">
-            <a href="/services">Ler</a>
+            <a href="/ensinos">Ensinos</a>
           </li>
           <li className="p-2 md:p-4 text-black border-opacity-0 hover:border-opacity-100 hover:text-yellow-400 duration-200 cursor-pointer">
             <a href="/team">Escutar</a>

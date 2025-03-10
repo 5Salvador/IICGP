@@ -24,6 +24,7 @@ export default {
         raleway: ['Raleway', 'sans-serif'],
         lora: ['lora', 'sans-serif'],
         valera: ['Varela', 'sans-serif'],
+        opens: ["Open Sans", 'sans-serif'],
       },
       keyframes: {
         'infinite-scroll': {
