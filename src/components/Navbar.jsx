@@ -31,7 +31,7 @@ const Header = () => {
             <a href="/team">Escutar</a>
           </li>
           <li className="p-2 md:p-4 text-black border-opacity-0 hover:border-opacity-100 hover:text-yellow-400 duration-200 cursor-pointer">
-            <a href="/team">Celulas</a>
+            <a href="/celulas">Celulas</a>
           </li>
           <li className="p-2 md:p-4 text-black border-opacity-0 hover:border-opacity-100 hover:text-yellow-400 duration-200 cursor-pointer">
             <a href="/contact">Contate-nos</a>
